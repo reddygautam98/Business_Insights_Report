@@ -1,16 +1,17 @@
 ## Introduction
 
-In today’s fast-paced business environment, making data-driven decisions in real-time is crucial for staying competitive. This project focuses on building a powerful real-time analytics dashboard that serves as a one-stop solution for tracking key performance indicators (KPIs), analyzing trends, and forecasting outcomes. Designed for Business Analysts, this dashboard integrates live data sources, enabling dynamic reporting and predictive analysis that drive informed decision-making across various business functions.
+- In today’s fast-paced business environment, making data-driven decisions in real-time is crucial for staying competitive. This project focuses on building a powerful real-time analytics dashboard that serves as a one-stop solution for tracking key performance indicators (KPIs), analyzing trends, and forecasting outcomes. Designed for Business Analysts, this dashboard integrates live data sources, enabling dynamic reporting and predictive analysis that drive informed decision-making across various business functions.
 
-The project is structured to deliver insights that are instantly actionable, from monitoring sales performance and financial health to assessing customer behavior and operational efficiency. Whether you need to explore high-level overviews or dive into detailed drill-downs, this tool empowers stakeholders with the right information at the right time.
-
+- The project is structured to deliver insights that are instantly actionable, from monitoring sales performance and financial health to assessing customer behavior and operational efficiency. Whether you need to explore high-level overviews or dive into detailed drill-downs, this tool empowers stakeholders with the right information at the right time.
+  
+* check them out here: "https://app.powerbi.com/groups/me/reports/5ef6323c-a815-420f-ba92-3f606712f6be?pbi_source=desktop"
 ## Background
 
-In an increasingly data-driven world, businesses need to access real-time information to stay ahead of market trends and make proactive decisions. Traditional reporting methods that rely on static data often lead to delayed insights, impacting the ability to respond quickly to emerging opportunities or risks. This project was initiated to address these challenges by creating a real-time analytics dashboard tailored for Business Analysts and decision-makers.
+- In an increasingly data-driven world, businesses need to access real-time information to stay ahead of market trends and make proactive decisions. Traditional reporting methods that rely on static data often lead to delayed insights, impacting the ability to respond quickly to emerging opportunities or risks. This project was initiated to address these challenges by creating a real-time analytics dashboard tailored for Business Analysts and decision-makers.
 
-The dashboard integrates live data streams, allowing for up-to-the-minute monitoring of critical business metrics. By incorporating advanced reporting and visualization techniques, this tool goes beyond static reports, offering dynamic, interactive insights that evolve with the data. The goal is to provide a centralized platform where stakeholders can access all relevant business information, optimize operational efficiency, and align strategic initiatives with the latest market conditions.
+- The dashboard integrates live data streams, allowing for up-to-the-minute monitoring of critical business metrics. By incorporating advanced reporting and visualization techniques, this tool goes beyond static reports, offering dynamic, interactive insights that evolve with the data. The goal is to provide a centralized platform where stakeholders can access all relevant business information, optimize operational efficiency, and align strategic initiatives with the latest market conditions.
 
-With features like predictive analytics and customizable KPIs, the dashboard not only reflects the current state of the business but also provides foresight into future trends, making it an indispensable resource for driving sustainable growth.
+- With features like predictive analytics and customizable KPIs, the dashboard not only reflects the current state of the business but also provides foresight into future trends, making it an indispensable resource for driving sustainable growth.
 
 ## 🛠️ Tools I Used
 
@@ -23,7 +24,10 @@ With features like predictive analytics and customizable KPIs, the dashboard not
 
 ## Analysis Overview
 
-The  file was analyzed to extract key insights into sales performance, monthly profit trends, and shipment efficiency. The data is organized across multiple sheets, each offering unique perspectives on the business operations.
+- The  file was analyzed to extract key insights into sales performance, monthly profit trends, and shipment efficiency. The data is organized across multiple sheets, each offering unique perspectives on the business operations.
+
+![Alt text for the image]([Dashboard](https://github.com/user-attachments/assets/b97aead4-f3cd-4d58-a9df-3d22e5ca8157)
+)
 
 ### Key Areas of Analysis
 
@@ -44,4 +48,4 @@ The  file was analyzed to extract key insights into sales performance, monthly p
 
 ### Conclusion
 
-The analysis provided valuable insights into the sales team’s performance, profitability trends, and shipment operations. These findings can help inform strategic decisions, improve processes, and optimize business performance.
+- The analysis provided valuable insights into the sales team’s performance, profitability trends, and shipment operations. These findings can help inform strategic decisions, improve processes, and optimize business performance.
