@@ -26,7 +26,7 @@
 
 - The  file was analyzed to extract key insights into sales performance, monthly profit trends, and shipment efficiency. The data is organized across multiple sheets, each offering unique perspectives on the business operations.
 
-![Alt text for the image]([Dashboard](https://github.com/user-attachments/assets/b97aead4-f3cd-4d58-a9df-3d22e5ca8157)
+![Dashboard]([Dashboard](https://github.com/user-attachments/assets/b97aead4-f3cd-4d58-a9df-3d22e5ca8157)
 )
 
 ### Key Areas of Analysis
