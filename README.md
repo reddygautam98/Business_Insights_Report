@@ -26,8 +26,8 @@
 
 - The  file was analyzed to extract key insights into sales performance, monthly profit trends, and shipment efficiency. The data is organized across multiple sheets, each offering unique perspectives on the business operations.
 
-![Dashboard]([Dashboard](https://github.com/user-attachments/assets/b97aead4-f3cd-4d58-a9df-3d22e5ca8157)
-)
+## Dashboard
+
 ![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/176524040/361559545-b97aead4-f3cd-4d58-a9df-3d22e5ca8157.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T101630Z&X-Amz-Expires=300&X-Amz-Signature=ddc9a4ceb6e53603aa9e72d091ee668991eef4bc07255550a19b79c45bb71b9e&X-Amz-SignedHeaders=host&actor_id=176524040&key_id=0&repo_id=847620809)
 
 
