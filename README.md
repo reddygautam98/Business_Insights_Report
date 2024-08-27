@@ -30,7 +30,7 @@
 
 ![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/176524040/361559545-b97aead4-f3cd-4d58-a9df-3d22e5ca8157.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T101630Z&X-Amz-Expires=300&X-Amz-Signature=ddc9a4ceb6e53603aa9e72d091ee668991eef4bc07255550a19b79c45bb71b9e&X-Amz-SignedHeaders=host&actor_id=176524040&key_id=0&repo_id=847620809)
 
-
+* This interactive Power BI dashboard provides a comprehensive view of our key business metrics, focusing on sales performance, monthly profit trends, and shipment efficiency. The data is meticulously organized across multiple sections, each offering unique insights that drive strategic decisions and operational improvements.
 
 ### Key Areas of Analysis
 
@@ -38,16 +38,26 @@
    - **Objective**: Evaluate the performance of individual salespersons based on sales, profit, and profit margins.
    - **Key Metrics**: Total Sales, Profit, Profit Percentage, LBS Percentage.
    - **Findings**: The analysis identified Gigi Bohling as the top-performing salesperson with a 72.4% profit margin. The comparison revealed varying levels of efficiency across the sales team.
+     
+![alt text](https://github.com/user-attachments/assets/68cf6d10-70f9-45a8-a13a-9b39d1ef9902)
 
 2. **Monthly Profit Trends**:
    - **Objective**: Track monthly profit trends to understand the financial performance over time.
    - **Key Metrics**: Monthly Profit.
    - **Findings**: The analysis observed consistent profit growth from February to April 2023, followed by fluctuations. These trends highlight periods of strong and weak financial performance, guiding future strategies.
 
+![alt text](https://github.com/user-attachments/assets/cf686adf-0c18-4fb1-b890-a82c1d9a9e54)
+
+* This Power BI dashboard is designed to track and analyze monthly profit trends, offering insights into financial performance over time. Key metrics include monthly profit figures, which are visualized through a line chart showing consistent growth from February to April 2023, followed by fluctuations. These trends highlight periods of strong and weak performance, guiding future strategies. Interactive features allow users to filter data, compare specific periods, and drill down for detailed analysis. A summary section at the top highlights key findings and actionable insights, enabling informed decision-making and strategic planning.
+
 3. **Shipment Efficiency**:
    - **Objective**: Assess the relationship between the number of bins used and total shipments to determine operational efficiency.
    - **Key Metrics**: Number of Bins, Total Shipments.
    - **Findings**: The analysis revealed slight inefficiencies in shipment operations, with variations in shipments despite increased bin usage. This indicates potential areas for process optimization.
+
+![alt text](https://github.com/user-attachments/assets/d9fa56a8-9400-4950-b173-4674e99c18d8)
+
+* This Power BI dashboard evaluates the relationship between the number of bins used and total shipments to assess operational efficiency. Key metrics include the number of bins and total shipments. The analysis shows slight inefficiencies in shipment operations, with shipment volumes varying despite an increase in bin usage. These variations highlight potential areas for process optimization and improved operational effectiveness. Interactive elements allow users to explore data correlations and identify opportunities for enhancing shipment processes.
 
 ### Conclusion
 
