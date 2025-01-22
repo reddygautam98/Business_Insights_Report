@@ -1,3 +1,5 @@
+## Business_Insights_Report
+
 ## Introduction
 
 - In today’s fast-paced business environment, making data-driven decisions in real-time is crucial for staying competitive. This project focuses on building a powerful real-time analytics dashboard that serves as a one-stop solution for tracking key performance indicators (KPIs), analyzing trends, and forecasting outcomes. Designed for Business Analysts, this dashboard integrates live data sources, enabling dynamic reporting and predictive analysis that drive informed decision-making across various business functions.
